@@ -1,6 +1,6 @@
 {
   "name": "m6ra22-simple-calculator",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "A Simple Calculator with Typescript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
